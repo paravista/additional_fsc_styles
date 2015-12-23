@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0" xmlns:t3="http://typo3.org/schemas/xliff">
+	<file t3:id="1415814808" source-language="en" datatype="plaintext" original="messages" date="2015-12-01T20:22:32Z" product-name="additional_fsc_styles">
+		<header/>
+		<body>
+			<trans-unit id="ce_style_formlabel">
+				<source>Style</source>
+			</trans-unit>
+			<trans-unit id="ce_style.0">
+				<source>None</source>
+			</trans-unit>
+			<trans-unit id="ce_style.1">
+				<source>Style 1</source>
+			</trans-unit>
+			<trans-unit id="ce_style.2">
+				<source>Style 2</source>
+			</trans-unit>
+			<trans-unit id="ce_style.3">
+				<source>Style 3</source>
+			</trans-unit>
+			<trans-unit id="header_style_formlabel">
+				<source>Style</source>
+			</trans-unit>
+			<trans-unit id="header_style.0">
+				<source>None</source>
+			</trans-unit>
+			<trans-unit id="header_style.1">
+				<source>Style 1</source>
+			</trans-unit>
+			<trans-unit id="header_style.2">
+				<source>Style 2</source>
+			</trans-unit>
+			<trans-unit id="header_style.3">
+				<source>Style 3</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
